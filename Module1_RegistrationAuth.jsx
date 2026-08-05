@@ -1,7 +1,4 @@
-// ============================================================
-// MODULE 1 — Registration & Authentication Module
-// Contains: API client, AuthContext, ProtectedRoute, Login, Register
-// ============================================================
+
 import React, { createContext, useContext, useState, useEffect } from "react";
 import { Navigate, Link, useNavigate } from "react-router-dom";
 
